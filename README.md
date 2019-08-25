@@ -1,2 +1,2 @@
 # Hello_World
-This Nates newbie project file. Hopefully one of many to come.
+This Nates newbie project file. What the heck have you been doing with your time?
